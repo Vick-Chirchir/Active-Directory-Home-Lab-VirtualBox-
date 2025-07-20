@@ -40,6 +40,10 @@ Domain Controller(DC) and CLIENT1(Win10) Running   <br/>
 <img src="https://i.imgur.com/9afltGB.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Server Manager Dashboard with all Servers Installed(DC)    <br/>
+<img src="https://i.imgur.com/hdtqoIe.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 NIC’s Setup (Domain Controller-DC)  <br/>
 <img src="https://i.imgur.com/GeZOeGt.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
